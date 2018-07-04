@@ -23,7 +23,6 @@
             }
         }
     }
-
     include("plantilla.php");
 ?>
 <form method="post" action="">
